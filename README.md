@@ -1,13 +1,13 @@
 # TensorFlow2-DeepLearning
 
-The main goals of this project are to: Use Python 3 for Deep Learning with Google's latest Tensorflow 2 library and the Keras API
+The goal of this project is to: Use Python 3 for Deep Learning with Google's latest Tensorflow 2 library and the Keras API
 * Artificial Neural Networks - ANNs
 * Convolutional Neural Networks - CNNs
 * Recurrent Neural Networks - RNNs
 * Natural Language Processing
 * AutoEncoders
 * Generative Adversarial Networks
-* Deployment 
+* Model Deployment 
 
 
 More Information
